@@ -12,18 +12,18 @@
                 <div class="resume-section-content">
                     <h1 class="mb-0">
                         Clarence
-                        <span class="text-primary">Taylor</span>
+                        <span class="text-primary">Rodrigo Carvalho dos Santos</span>
                     </h1>
                     <div class="subheading mb-5">
-                        3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-                        <a href="mailto:name@email.com">name@email.com</a>
+                        Rua 10, 185, Santa Mônica, Vila Velha - ES · (027) 988813-9824·
+                        <a href="mailto:name@email.com">rodrigovix74@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                    <p class="lead mb-5">Sou desenvolvedor web frontend e backend com experiência na linguagem PHP e o banco de dados MySQL para trabalhar com servidor, no design da interface utilizo o HTML5, CSS e o framework Bootstrap.</p>
                     <div class="social-icons">
-                        <a class="social-icon" href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="#">https://www.linkedin.com/in/rodrigo-carvalho-dos-santos-484b0255/<i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="#">https://github.com/rodrigovix74/<i class="fab fa-github"></i></a>
                         <a class="social-icon" href="#"><i class="fab fa-twitter"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social-icon" href="#">https://www.facebook.com/rodrigo.carvalhodossantos.50<i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </section>
@@ -31,38 +31,38 @@
             <!-- Experience-->
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Experience</h2>
+                    <h2 class="mb-5">Experiência</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Senior Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                            <h3 class="mb-0">Desenvolvedor Web Sênior</h3>
+                            <div class="subheading mb-3">PHP / MySQL / JavaScrip / HTML5 / CSS / Bootstrap</div>
+                            <p>Neste projeto desenvolvi um sistema de gerenciamento de ideias a serem concebidas e realizadas com o objetivo de melhora da performance organizacional, principalmente a redução de custos.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">2020 - Projeto: Idealize </span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                            <h3 class="mb-0">Desenvolvedor Web Pleno</h3>
+                            <div class="subheading mb-3">PHP / MySQL / JavaScrip / HTML5 / CSS / Bootstrap</div>
+                            <p> Desenvolvimento de um sistema para importação dados em planilhas para realizar análise financeira e identificar vulnerabilidades no processo de pagamento. Além disso o sistema gera gráficos e apresenta dados estatísticos relevantes.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">2019 - Projeto: ImportaAudit</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Junior Web Designer</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                            <h3 class="mb-0">Desenvolvedor Web Jr</h3>
+                            <div class="subheading mb-3">PHP / MySQL / JavaScrip / HTML5 / CSS / Bootstrap</div>
+                            <p>Projeto para o desenvolvimento de Sistema de Auditoria, contemplando todo o processo de auditoria desde o papel de trabalho, passando pelo relatório preliminar e relatório da maturidade do processo a ser apresentado na reunião de conselho admistrativo.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">2016 - Projeto: Sistema de Auditoria</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Design Intern</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+                            <h3 class="mb-0">Desenvolvedor Web</h3>
+                            <div class="subheading mb-3">PHP / MySQL / JavaScrip / HTML5 / CSS / Bootstrap</div>
+                            <p>Desenvolvimento de sistema de cadastro para conclusão do curso de PHP e MySQL realizado no SENAC ES.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">2015 - Projeto: Sistema de Cadastro</span></div>
                     </div>
                 </div>
             </section>
@@ -70,23 +70,24 @@
             <!-- Education-->
             <section class="resume-section" id="education">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Education</h2>
+                    <h2 class="mb-5">Formação</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">University of Colorado Boulder</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science - Web Development Track</div>
-                            <p>GPA: 3.23</p>
+                            <h3 class="mb-0">Faculdade Dom Bosco</h3>
+                            <div class="subheading mb-3">Engenharia de Software</div>
+                            <div>Pós Graduação</div>
+                            <p>Cursando</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">2020 - 2021</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">James Buchanan High School</h3>
-                            <div class="subheading mb-3">Technology Magnet Program</div>
-                            <p>GPA: 3.56</p>
+                        <h3 class="mb-0">Faculdade Estácio de Sá de Vila Velha</h3>
+                            <div class="subheading mb-3">Bacharel de Administração de Empresas</div>
+                            <div>Habilitação em Comércio Exterior</div>
+                            <p>Completo</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">2005 - 2009</span></div>
                     </div>
                 </div>
             </section>
@@ -95,38 +96,33 @@
             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
-                    <div class="subheading mb-3">Programming Languages & Tools</div>
+                    <div class="subheading mb-3">Linguagem de Programação e Ferramentas</div>
                     <ul class="list-inline dev-icons">
                         <li class="list-inline-item"><i class="fab fa-html5"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-sass"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-less"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-php"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-mysql"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-css"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-js"></i></li>
+
                     </ul>
-                    <div class="subheading mb-3">Workflow</div>
+                    <div class="subheading mb-3">Boas Práticas de Programação</div>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Mobile-First, Responsive Design
+                            Git e Github
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Browser Testing & Debugging
+                            Docker
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Functional Teams
+                            MVC
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Agile Development & Scrum
+                            Desenvolvimento Ágil e SCRUM
                         </li>
                     </ul>
                 </div>
@@ -144,45 +140,45 @@
             <!-- Awards-->
             <section class="resume-section" id="awards">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Awards & Certifications</h2>
+                    <h2 class="mb-5">Cursos e Treinamentos</h2>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Google Analytics Certified Developer
+                            Administração de Banco de Dados
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Mobile Web Specialist - Google Certification
+                            Desenvolvimento de Aplicativos Móveis
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
+                            Desenvolvimento de Jogos Eletrônicos
                             <sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
+                            IMD UFRN
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
+                            Desenvolvimento Web
+                            <sup> - </sup>
+                            IFTO
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            2
-                            <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
+                            PHP e MysQL
+                            <sup> - </sup>
+                            SENAC ES
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
+                            Sharepoint
+                            <sup> - </sup>
+                            Office365
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
+                            Power BI
+                            <sup>-</sup>
+                            Microsoft
                         </li>
                     </ul>
                 </div>
